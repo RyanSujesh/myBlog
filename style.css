@@ -37,7 +37,7 @@ body{
 
 
 .links:hover {
-    background-color:dodgerblue;
+    background-color:orangered;
 }
 
 img{
@@ -45,11 +45,14 @@ img{
     width: 500px;
 }
 
-#welcome{
+#About{
     font-family: 'Lemonada', cursive;
     font-family: 'Potta One', cursive;
 }
 
 #hobby{
     font-family: 'Lemonada', cursive;
+}
+html{
+    scroll-behavior: smooth;
 }
